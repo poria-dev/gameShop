@@ -39,6 +39,7 @@ Explore the structural composition and visual styling through the project screen
 > [!IMPORTANT]
 > Note on Image Formats: If your image files inside the ./screen/ directory have a different extension (like .jpg instead of .png), remember to update the shat1.png and shat2.png extensions in the table code above.
 
+
 ---
 
 ## 🛠️ Built With
